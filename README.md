@@ -4,7 +4,7 @@ University of Milano Bicocca
 Master's Thesis | Data Science | A.Y. 2023/24  
 
 
-# Exposing Bias in Vision-Language Models
+# Predicting Census Area Typologies Using Deep Learning solutions
 
 **Abstract:**
 
